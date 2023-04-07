@@ -2,8 +2,8 @@ Rellenar el cuestionario, e ir introduciendo la información por grupos lógicos
 
 Una vez rellenado el cuestionario, se podrán hacer preguntas complejas sobre un análisis. 
 
-
-TEMAS SOLO INDICATIVO ****************************************
+ÍNDICE
+**************************************************************
 
 Educación y formación académica
 
