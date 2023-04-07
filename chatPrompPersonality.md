@@ -1,38 +1,76 @@
+Rellenar el cuestionario, e ir introduciendo la información por grupos lógicos, preguntas relacionadas entre si.
+
+Una vez rellenado el cuestionario, se podrán hacer preguntas complejas sobre un análisis. 
+
+
 TEMAS SOLO INDICATIVO ****************************************
 
 Educación y formación académica
+
 Experiencias laborales y profesionales
+
 Salud física y mental
+
 Experiencias de vida traumáticas o difíciles que hayan tenido un impacto significativo en su desarrollo y perspectivas
+
 Actitudes y comportamientos hacia el dinero y la gestión financiera
+
 Perspectivas y actitudes hacia la política y los asuntos sociales importantes
+
 Creencias religiosas o espirituales y cómo influyen en su vida y toma de decisiones
+
 Actitudes y comportamientos hacia el medio ambiente y la sostenibilidad
+
 Habilidades lingüísticas y conocimientos de idiomas
+
 Participación en actividades de voluntariado o trabajo comunitario
+
 Actitudes y comportamientos hacia la tecnología y la innovación
+
 Conocimientos y habilidades en áreas especializadas, como la música, el arte o los deportes.
+
 Experiencias de viajes y culturales que hayan tenido un impacto significativo en su desarrollo y perspectivas
+
 Antecedentes familiares y culturales
+
 Historia personal y experiencias significativas
+
 Valores y creencias fundamentales
+
 Intereses y pasatiempos
+
 Metas y aspiraciones en la vida
+
 Fortalezas y debilidades
+
 Temperamento y rasgos de personalidad
+
 Estilo de comunicación y habilidades sociales
+
 Actitudes y reacciones ante situaciones difíciles
+
 Estilo de afrontamiento y manejo del estrés
+
 Hábitos y rutinas diarias
+
 Autoestima y autopercepción
+
 Estilo de resolución de conflictos
+
 Estilo y preferencias de aprendizaje
+
 Orientación al logro y la ambición
+
 Creatividad e innovación
+
 Inteligencia emocional y empatía
+
 Inteligencia social y cultural
+
 Capacidad para adaptarse al cambio y la incertidumbre
+
 Relaciones interpersonales significativas (amistades, parejas, familia)
+
 ********************************************************************************
 
 
