@@ -77,7 +77,7 @@ Relaciones interpersonales significativas (amistades, parejas, familia)
 Retroalimentación de terceros (opiniones de amigos, familiares, colegas) RECOMENDADO UNA EVALUACIÓN DE UN TERCERO
 
 *********************************************************************************
-
+INICIA CUESTIONARIO
 
 Nombre completo de la persona:
 Fecha de nacimiento:
